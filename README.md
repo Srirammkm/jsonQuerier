@@ -1,5 +1,6 @@
 # jsonQ
-<a href='https://pngtree.com/so/vector'>vector png from pngtree.com/</a>
+![plot](./.github/jsonQ.png)
+
 Installation
 ```sh
 pip install jsonQ
