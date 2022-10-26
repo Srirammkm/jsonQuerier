@@ -1,5 +1,4 @@
 # jsonQ
-![plot](./.github/jsonQ.png)
 
 Installation
 ```sh
