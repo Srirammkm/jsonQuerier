@@ -84,4 +84,6 @@ Output
 ```
 out.where("favorite.*.food == eggos").tolist()
 out.where("beer in favorite.*.food").tolist()
+out.where("food in favorite.*.food").get("age")
+out.where("food in favorite.*.food").get("name.first")
 ```
